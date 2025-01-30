@@ -1,10 +1,10 @@
-##User Management Web App
+# User Management Web App
 
 🚀 Overview
 
 User Management Web App is a React-based application designed to efficiently manage users by adding, editing, and deleting user profiles. The project leverages modern front-end technologies for a seamless and responsive experience.
 
-📸 Screenshots
+📸 Screenshot
 ![image](https://github.com/user-attachments/assets/b2c13315-02b2-4425-a933-eecf8206c36c)
 
 🛠 Features
@@ -45,7 +45,8 @@ Running the Application
 npm start
 
 Visit http://localhost:3000/ in your browser.
-Deploying to GitHub Pages
+
+# Deploying to GitHub Pages
 git add .
 git commit -m "Deploying the app"
 git push origin main
