@@ -50,8 +50,11 @@ Visit http://localhost:3000/ in your browser.
 
 # Deploying to GitHub Pages
 git add .
+
 git commit -m "Deploying the app"
+
 git push origin main
+
 npm run deploy
 
 🚧 Challenges Faced & Lessons Learned
