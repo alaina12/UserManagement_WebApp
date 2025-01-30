@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserManagement_WebApp/static/css/main.58787057.css",
+    "main.js": "/UserManagement_WebApp/static/js/main.2923b584.js",
+    "index.html": "/UserManagement_WebApp/index.html",
+    "main.58787057.css.map": "/UserManagement_WebApp/static/css/main.58787057.css.map",
+    "main.2923b584.js.map": "/UserManagement_WebApp/static/js/main.2923b584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58787057.css",
+    "static/js/main.2923b584.js"
+  ]
+}
