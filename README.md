@@ -19,11 +19,13 @@ User Management Web App is a React-based application designed to efficiently man
 
 🚀 Hosted using GitHub Pages / Vercel
 
+
 🏗️ Tech Stack
 
 Frontend: React.js, JavaScript, CSS
 
 Deployment: GitHub Pages / Vercel
+
 
 🛠️ Setup Instructions
 
@@ -53,6 +55,7 @@ git push origin main
 npm run deploy
 
 🚧 Challenges Faced & Lessons Learned
+
 1️⃣ Initial Repository Setup Issues
 Faced errors like "src refspec main does not match any", which were due to missing initial commits.
 Solution: Ensured commits were made before pushing.
